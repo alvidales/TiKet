@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Alberto/Documents/GitHub/TiKet/server","disabled":false},"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Alberto/Documents/GitHub/TiKet/data","disabled":false}}}
